@@ -1,0 +1,6 @@
+@DubRep_HostAddress = http://localhost:5170
+
+GET {{DubRep_HostAddress}}/voiceactors/
+Accept: application/json
+
+###
